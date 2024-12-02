@@ -1,1 +1,1 @@
-An advent calendar staring your favorite characters from Shenmue!
+An advent calendar starring your favorite characters from Shenmue!
